@@ -1,6 +1,35 @@
-# BookAI-assessment
+<h1>Book-AI Assessment</h1>
 
-# Technologies Used
-1. React: For building the user interface and managing component states.
-2. Bootstrap: For responsive grid layout and styling.
-3. CSS: For custom styles and responsive design.
+<h2>Getting Started</h2>
+
+<p>Follow these steps to run the app on your local machine:</p>
+
+<ol>
+  <li>Clone the repository:</li>
+</ol>
+
+<pre><code>git clone https://github.com/SrishtiLodhi/BookAI-assessment
+cd BookAI-assessment
+</code></pre>
+
+<ol start="2">
+  <li>Install dependencies:</li>
+</ol>
+
+<pre><code>npm install
+</code></pre>
+
+<ol start="3">
+  <li>Start the development server:</li>
+</ol>
+
+<pre><code>npm start
+</code></pre>
+
+<h2>Technologies Used</h2>
+
+<ul>
+  <li>ReactJS</li>
+  <li>Bootstrap</li>
+</ul>
+
