@@ -1,7 +1,6 @@
 # BookAI-assessment
 
-Technologies Used
-React: For building the user interface and managing component states.
-Bootstrap: For responsive grid layout and styling.
-CSS: For custom styles and responsive design.
-SVG Images: For book cover images.
+# Technologies Used
+1. React: For building the user interface and managing component states.
+2. Bootstrap: For responsive grid layout and styling.
+3. CSS: For custom styles and responsive design.
